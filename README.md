@@ -35,4 +35,4 @@ All the ammo, turrets, powerups and paddle types can be used with each other.
 ![Screen](https://github.com/RohanMenon92/SpinPaddlePlayableDemo/blob/master/Screenshots/spin1.PNG)
 ![Shield2](https://github.com/RohanMenon92/SpinPaddlePlayableDemo/blob/master/Screenshots/spin2.PNG)
 ![Gameplay](https://github.com/RohanMenon92/SpinPaddlePlayableDemo/blob/master/Screenshots/spin3.PNG)
-![Gameplay](https://github.com/RohanMenon92/SpinPaddlePlayableDemo/blob/master/Screenshots/spin3.PNG)
+![Gameplay](https://github.com/RohanMenon92/SpinPaddlePlayableDemo/blob/master/Screenshots/spin4.PNG)
